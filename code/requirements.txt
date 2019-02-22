@@ -1,0 +1,19 @@
+# asynchronous DNS resolutions
+aiodns
+
+# http client/server framework
+aiohttp
+
+# Beautiful Soup
+bs4
+
+# universal character encoding detector
+cchardet
+
+# producing colored terminal text and cursor positioning
+colorama
+
+# http / json
+requests
+
+pytest
